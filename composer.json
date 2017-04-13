@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Geckob\\GoogleCalendar\\" : "geckob/src"
+            "Geckob\\GoogleCalendar\\" : "src/"
         }
     }   
 }
