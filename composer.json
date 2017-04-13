@@ -1,0 +1,17 @@
+{
+    "name": "geckob/google-calendar",
+    "authors": [
+        {
+            "name": "Luqman",
+            "email": "luqmanrom@gmail.com"
+        }
+    ],
+    "require": {
+       "google/apiclient": "^1.1.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Geckob\\GoogleCalendar\\" : "geckob/src"
+        }
+    }   
+}
